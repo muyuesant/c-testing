@@ -1,0 +1,10 @@
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\bin\Debug\EntityFramework.dll
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\bin\Debug\EntityFramework.xml
+I:\C# testing\WindowsFormsApplication1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
